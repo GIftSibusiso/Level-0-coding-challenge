@@ -10,4 +10,4 @@ def common_characters(word1, word2):
     for i in range(2):
         shared_letters = shared_letters[:-1]
 
-    return print(f"Common letters: {shared_letters}")
+    print(f"Common letters: {shared_letters}")

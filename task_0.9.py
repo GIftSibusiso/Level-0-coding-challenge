@@ -9,5 +9,5 @@ def vowels(word):
     for i in range(2):
         present_vowels = present_vowels[:-1]
 
-    return print(f"Vowels: {present_vowels}")
+    print(f"Vowels: {present_vowels}")
  
